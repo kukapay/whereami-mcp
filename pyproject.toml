@@ -1,7 +1,7 @@
 [project]
 name = "whereami-mcp"
 version = "0.1.0"
-description = "Add your description here"
+description = "A lightweight mcp server that tells you exactly where you are."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
